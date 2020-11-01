@@ -8,7 +8,6 @@
 
 .u-section-1 .u-tabs-1 {
   min-height: 461px;
-  height: auto;
   margin-top: 60px;
   margin-bottom: 60px;
 }
@@ -55,6 +54,73 @@
   padding: 30px;
 }
 
+.u-section-1 .u-table-1 {
+  margin: 0;
+}
+
+.u-block-08a4-46 {
+  height: 46px;
+}
+
+.u-section-1 .u-table-cell-2 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-4 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-6 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-8 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-10 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-12 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-14 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-16 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-18 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-20 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-section-1 .u-table-cell-22 {
+  margin-right: 0;
+  margin-left: 540px;
+}
+
+.u-block-08a4-61 {
+  height: 46px;
+}
+
 .u-section-1 .u-container-layout-2 {
   padding: 30px;
 }
@@ -74,6 +140,12 @@
 @media (max-width: 1199px) {
   .u-section-1 .u-tabs-1 {
     min-height: 375px;
+    height: auto;
+  }
+
+  .u-section-1 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
   }
 }
 
