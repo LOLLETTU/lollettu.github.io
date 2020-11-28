@@ -657,8 +657,14 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
   .u-section-1 .u-tabs-1 {
     min-height: 461px;
+    margin-top: 46px;
+    margin-bottom: 0;
   }
 
   .u-section-1 .u-tab-link-1 {
@@ -802,6 +808,8 @@
   }
 
   .u-section-1 .u-line-1 {
-    margin-top: 20px;
+    top: 22px;
+    left: auto;
+    right: 157px;
   }
 }
