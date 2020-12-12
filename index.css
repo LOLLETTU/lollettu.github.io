@@ -105,10 +105,10 @@
 }
 
 .u-section-3 .u-group-1 {
-  width: 330px;
-  min-height: 200px;
+  width: 395px;
+  min-height: 222px;
   animation-duration: 500ms;
-  margin: 60px auto 60px 95px;
+  margin: 81px auto 81px 95px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -151,8 +151,6 @@
 
   .u-section-3 .u-group-1 {
     min-height: 140px;
-    margin-top: 44px;
-    margin-bottom: 44px;
     margin-left: 12px;
   }
 }.u-section-4 {
