@@ -48,15 +48,20 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 186px;
+    min-height: 203px;
   }
 
   .u-section-1 .u-group-1 {
-    width: 208px;
-    min-height: 126px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-left: 13px;
+    width: 316px;
+    min-height: 100px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
   }
 }.u-section-2 {
   min-height: 822px;
@@ -70,11 +75,11 @@
   margin: 19px 0 60px;
 }
 
-.u-block-0fc5-10 {
+.u-block-06af-10 {
   height: 46px;
 }
 
-.u-block-0fc5-25 {
+.u-block-06af-25 {
   height: 46px;
 }
 
@@ -87,12 +92,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1166px;
+    min-height: 1111px;
   }
 
   .u-section-2 .u-table-1 {
     margin-top: 31px;
-    margin-bottom: 10px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
   }
@@ -100,15 +105,11 @@
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
 }
 
-.u-section-3 .u-sheet-1 {
-  min-height: 383px;
-}
-
 .u-section-3 .u-group-1 {
-  width: 395px;
-  min-height: 222px;
+  width: 330px;
+  min-height: 200px;
   animation-duration: 500ms;
-  margin: 81px auto 81px 95px;
+  margin: 60px auto 60px 95px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -127,10 +128,6 @@
     background-position: 50% 50%;
   }
 
-  .u-section-3 .u-sheet-1 {
-    min-height: 326px;
-  }
-
   .u-section-3 .u-group-1 {
     width: 249px;
     min-height: 151px;
@@ -145,13 +142,17 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 228px;
+  .u-section-3 .u-group-1 {
+    width: 284px;
+    min-height: 100px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    margin-left: 13px;
   }
 
-  .u-section-3 .u-group-1 {
-    min-height: 140px;
-    margin-left: 12px;
+  .u-section-3 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
   }
 }.u-section-4 {
   min-height: 822px;
@@ -165,11 +166,11 @@
   margin: 19px 0 60px;
 }
 
-.u-block-fe66-10 {
+.u-block-591b-10 {
   height: 46px;
 }
 
-.u-block-fe66-25 {
+.u-block-591b-25 {
   height: 46px;
 }
 
@@ -182,12 +183,12 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 631px;
+    min-height: 110px;
   }
 
   .u-section-4 .u-table-1 {
-    margin-top: 31px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -241,18 +242,20 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 228px;
+    min-height: 186px;
   }
 
   .u-section-5 .u-group-1 {
-    width: 187px;
-    min-height: 106px;
-    margin-left: 12px;
+    width: 314px;
+    min-height: 100px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    margin-left: auto;
   }
 
   .u-section-5 .u-container-layout-1 {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 22px;
+    padding-bottom: 22px;
   }
 }.u-section-6 {
   min-height: 822px;
@@ -266,11 +269,11 @@
   margin: 19px 0 60px;
 }
 
-.u-block-06af-10 {
+.u-block-502b-10 {
   height: 46px;
 }
 
-.u-block-06af-25 {
+.u-block-502b-25 {
   height: 46px;
 }
 
@@ -282,8 +285,419 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 245px;
+  }
+
   .u-section-6 .u-table-1 {
-    margin-top: 31px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-7 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-7 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-7 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-7 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-7 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-7 .u-group-1 {
+    width: 314px;
+    min-height: 100px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    margin-left: auto;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+}.u-section-8 {
+  min-height: 822px;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-8 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-1b9d-10 {
+  height: 46px;
+}
+
+.u-block-1b9d-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-8 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-9 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-9 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-9 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-9 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-9 .u-group-1 {
+    width: 227px;
+    min-height: 100px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    margin-left: 13px;
+  }
+
+  .u-section-9 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+}.u-section-10 {
+  min-height: 822px;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-10 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-0fc5-10 {
+  height: 46px;
+}
+
+.u-block-0fc5-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 1055px;
+  }
+
+  .u-section-10 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-11 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+}
+
+.u-section-11 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-11 .u-group-1 {
+  width: 395px;
+  min-height: 222px;
+  animation-duration: 500ms;
+  margin: 81px auto 81px 95px;
+}
+
+.u-section-11 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-11 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-11 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-11 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-11 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-11 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-11 .u-group-1 {
+    min-height: 100px;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    margin-left: 12px;
+  }
+
+  .u-section-11 .u-container-layout-1 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+  }
+}.u-section-12 {
+  min-height: 822px;
+}
+
+.u-section-12 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-12 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-fe66-10 {
+  height: 46px;
+}
+
+.u-block-fe66-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-12 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-12 .u-sheet-1 {
+    min-height: 605px;
+  }
+
+  .u-section-12 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-13 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+}
+
+.u-section-13 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-13 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-13 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-13 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-13 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-13 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-13 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-13 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-13 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-13 .u-group-1 {
+    width: 187px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-13 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-14 {
+  min-height: 822px;
+}
+
+.u-section-14 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-14 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-bbcd-10 {
+  height: 46px;
+}
+
+.u-block-bbcd-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-14 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-14 .u-table-1 {
+    margin-top: 29px;
     margin-right: initial;
     margin-left: initial;
   }
