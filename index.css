@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -68,11 +68,11 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 880px;
+  min-height: 1145px;
 }
 
 .u-section-2 .u-table-1 {
-  margin: 19px 0 60px;
+  margin: 10px 0;
 }
 
 .u-block-06af-10 {
@@ -92,17 +92,17 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1111px;
+    min-height: 1125px;
   }
 
   .u-section-2 .u-table-1 {
-    margin-top: 31px;
+    margin-top: 0;
     margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
   }
 }.u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-3 .u-group-1 {
@@ -143,7 +143,7 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-group-1 {
-    width: 284px;
+    width: 262px;
     min-height: 100px;
     margin-top: 43px;
     margin-bottom: 43px;
@@ -159,11 +159,11 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 880px;
+  min-height: 110px;
 }
 
 .u-section-4 .u-table-1 {
-  margin: 19px 0 60px;
+  margin: 10px 0;
 }
 
 .u-block-591b-10 {
@@ -183,17 +183,17 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 110px;
+    min-height: 89px;
   }
 
   .u-section-4 .u-table-1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
   }
 }.u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-5 .u-sheet-1 {
@@ -262,11 +262,11 @@
 }
 
 .u-section-6 .u-sheet-1 {
-  min-height: 880px;
+  min-height: 245px;
 }
 
 .u-section-6 .u-table-1 {
-  margin: 19px 0 60px;
+  margin: 10px 0;
 }
 
 .u-block-502b-10 {
@@ -286,17 +286,17 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-    min-height: 245px;
+    min-height: 224px;
   }
 
   .u-section-6 .u-table-1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
   }
 }.u-section-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-7 .u-sheet-1 {
@@ -389,17 +389,17 @@
 
 @media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 515px;
+    min-height: 495px;
   }
 
   .u-section-8 .u-table-1 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
   }
 }.u-section-9 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-9 .u-sheet-1 {
@@ -452,8 +452,8 @@
   }
 
   .u-section-9 .u-group-1 {
-    width: 227px;
-    min-height: 100px;
+    width: 231px;
+    min-height: 152px;
     margin-top: 43px;
     margin-bottom: 43px;
     margin-left: 13px;
@@ -502,7 +502,7 @@
     margin-left: initial;
   }
 }.u-section-11 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-11 .u-sheet-1 {
@@ -604,7 +604,7 @@
     margin-left: initial;
   }
 }.u-section-13 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/Ildolomiti1.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
 }
 
 .u-section-13 .u-sheet-1 {
@@ -657,7 +657,7 @@
   }
 
   .u-section-13 .u-group-1 {
-    width: 187px;
+    width: 158px;
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
@@ -696,8 +696,1455 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-14 .u-sheet-1 {
+    min-height: 245px;
+  }
+
   .u-section-14 .u-table-1 {
-    margin-top: 29px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-15 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-15 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-15 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-15 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-15 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-15 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-15 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-15 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-15 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-15 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-15 .u-group-1 {
+    width: 269px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-15 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-16 {
+  min-height: 822px;
+}
+
+.u-section-16 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-16 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-6dee-10 {
+  height: 46px;
+}
+
+.u-block-6dee-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-16 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-16 .u-sheet-1 {
+    min-height: 155px;
+  }
+
+  .u-section-16 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-17 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-17 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-17 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-17 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-17 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-17 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-17 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-17 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-17 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-17 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-17 .u-group-1 {
+    width: 304px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-17 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-18 {
+  min-height: 822px;
+}
+
+.u-section-18 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-18 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-5fc8-10 {
+  height: 46px;
+}
+
+.u-block-5fc8-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-18 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-18 .u-sheet-1 {
+    min-height: 245px;
+  }
+
+  .u-section-18 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-19 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-19 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-19 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-19 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-19 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-19 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-19 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-19 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-19 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-19 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-19 .u-group-1 {
+    width: 175px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-19 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-20 {
+  min-height: 822px;
+}
+
+.u-section-20 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-20 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-d68f-10 {
+  height: 46px;
+}
+
+.u-block-d68f-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-20 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-20 .u-sheet-1 {
+    min-height: 515px;
+  }
+
+  .u-section-20 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-21 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-21 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-21 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-21 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-21 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-21 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-21 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-21 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-21 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-21 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-21 .u-group-1 {
+    width: 212px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-21 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-22 {
+  min-height: 822px;
+}
+
+.u-section-22 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-22 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-94af-10 {
+  height: 46px;
+}
+
+.u-block-94af-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-22 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-22 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+  .u-section-22 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-23 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-23 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-23 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-23 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-23 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-23 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-23 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-23 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-23 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-23 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-23 .u-group-1 {
+    width: 248px;
+    min-height: 130px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-23 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-24 {
+  min-height: 822px;
+}
+
+.u-section-24 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-24 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-649e-10 {
+  height: 46px;
+}
+
+.u-block-649e-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-24 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-24 .u-sheet-1 {
+    min-height: 110px;
+  }
+
+  .u-section-24 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: -8px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-25 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-25 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-25 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-25 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-25 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-25 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-25 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-25 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-25 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-25 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-25 .u-group-1 {
+    width: 103px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-25 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-26 {
+  min-height: 822px;
+}
+
+.u-section-26 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-26 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-c48c-10 {
+  height: 46px;
+}
+
+.u-block-c48c-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-26 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-26 .u-sheet-1 {
+    min-height: 110px;
+  }
+
+  .u-section-26 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: -125px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-27 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-27 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-27 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-27 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-27 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-27 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-27 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-27 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-27 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-27 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-27 .u-group-1 {
+    width: 176px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-27 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-28 {
+  min-height: 822px;
+}
+
+.u-section-28 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-28 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-0af1-10 {
+  height: 46px;
+}
+
+.u-block-0af1-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-28 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-28 .u-sheet-1 {
+    min-height: 110px;
+  }
+
+  .u-section-28 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: -125px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-29 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-29 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-29 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-29 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-29 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-29 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-29 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-29 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-29 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-29 .u-sheet-1 {
+    min-height: 235px;
+  }
+
+  .u-section-29 .u-group-1 {
+    width: 243px;
+    min-height: 155px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-29 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-30 {
+  min-height: 822px;
+}
+
+.u-section-30 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-30 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-eb56-10 {
+  height: 46px;
+}
+
+.u-block-eb56-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-30 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-30 .u-sheet-1 {
+    min-height: 110px;
+  }
+
+  .u-section-30 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: -125px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-31 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-31 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-31 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-31 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-31 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-31 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-31 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-31 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-31 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-31 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-31 .u-group-1 {
+    width: 127px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-31 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-32 {
+  min-height: 822px;
+}
+
+.u-section-32 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-32 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-65f1-10 {
+  height: 46px;
+}
+
+.u-block-65f1-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-32 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-32 .u-sheet-1 {
+    min-height: 155px;
+  }
+
+  .u-section-32 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-33 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-33 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-33 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-33 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-33 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-33 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-33 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-33 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-33 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-33 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-33 .u-group-1 {
+    width: 206px;
+    min-height: 130px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-33 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-34 {
+  min-height: 822px;
+}
+
+.u-section-34 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-34 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-50f5-10 {
+  height: 46px;
+}
+
+.u-block-50f5-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-34 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-34 .u-sheet-1 {
+    min-height: 380px;
+  }
+
+  .u-section-34 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: -125px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-35 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-35 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-35 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-35 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-35 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-35 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-35 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-35 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-35 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-35 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-35 .u-group-1 {
+    width: 197px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-35 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-36 {
+  min-height: 822px;
+}
+
+.u-section-36 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-36 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-fbda-10 {
+  height: 46px;
+}
+
+.u-block-fbda-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-36 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-36 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+  .u-section-36 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-37 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-37 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-37 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-37 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-37 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-37 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-37 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-37 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-37 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-37 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-37 .u-group-1 {
+    width: 229px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-37 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-38 {
+  min-height: 822px;
+}
+
+.u-section-38 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-38 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-09ae-10 {
+  height: 46px;
+}
+
+.u-block-09ae-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-38 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-38 .u-sheet-1 {
+    min-height: 200px;
+  }
+
+  .u-section-38 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-39 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-39 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-39 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-39 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-39 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-39 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-39 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-39 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-39 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-39 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-39 .u-group-1 {
+    width: 219px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-39 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-40 {
+  min-height: 822px;
+}
+
+.u-section-40 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-40 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-c9de-10 {
+  height: 46px;
+}
+
+.u-block-c9de-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-40 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-40 .u-sheet-1 {
+    min-height: 245px;
+  }
+
+  .u-section-40 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-41 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+}
+
+.u-section-41 .u-sheet-1 {
+  min-height: 383px;
+}
+
+.u-section-41 .u-group-1 {
+  width: 330px;
+  min-height: 200px;
+  animation-duration: 500ms;
+  margin: 60px auto 60px 95px;
+}
+
+.u-section-41 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-41 .u-text-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-41 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-41 .u-sheet-1 {
+    min-height: 326px;
+  }
+
+  .u-section-41 .u-group-1 {
+    width: 249px;
+    min-height: 151px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-41 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-41 .u-sheet-1 {
+    min-height: 186px;
+  }
+
+  .u-section-41 .u-group-1 {
+    width: 279px;
+    min-height: 106px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 12px;
+  }
+
+  .u-section-41 .u-container-layout-1 {
+    padding-top: 11px;
+    padding-bottom: 11px;
+  }
+}.u-section-42 {
+  min-height: 822px;
+}
+
+.u-section-42 .u-sheet-1 {
+  min-height: 880px;
+}
+
+.u-section-42 .u-table-1 {
+  margin: 19px 0 60px;
+}
+
+.u-block-1b05-10 {
+  height: 46px;
+}
+
+.u-block-1b05-25 {
+  height: 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-42 .u-table-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-42 .u-sheet-1 {
+    min-height: 470px;
+  }
+
+  .u-section-42 .u-table-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: initial;
     margin-left: initial;
   }
