@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/caff.jpg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -48,7 +48,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 203px;
+    min-height: 204px;
   }
 
   .u-section-1 .u-group-1 {
@@ -102,7 +102,11 @@
     margin-left: initial;
   }
 }.u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/spremuta.jpg");
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 186px;
 }
 
 .u-section-3 .u-group-1 {
@@ -147,7 +151,7 @@
     min-height: 100px;
     margin-top: 43px;
     margin-bottom: 43px;
-    margin-left: 13px;
+    margin-left: auto;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -193,7 +197,7 @@
     margin-left: initial;
   }
 }.u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/yoghurtfuttidibosco.jpg");
 }
 
 .u-section-5 .u-sheet-1 {
@@ -241,6 +245,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-5 {
+    background-position: 50% 57.2%;
+  }
+
   .u-section-5 .u-sheet-1 {
     min-height: 186px;
   }
@@ -296,7 +304,7 @@
     margin-left: initial;
   }
 }.u-section-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/pastequalitpremium.jpg");
 }
 
 .u-section-7 .u-sheet-1 {
@@ -399,7 +407,7 @@
     margin-left: initial;
   }
 }.u-section-9 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/bibite.jpg");
 }
 
 .u-section-9 .u-sheet-1 {
@@ -448,7 +456,7 @@
 
 @media (max-width: 575px) {
   .u-section-9 .u-sheet-1 {
-    min-height: 186px;
+    min-height: 238px;
   }
 
   .u-section-9 .u-group-1 {
@@ -456,7 +464,7 @@
     min-height: 152px;
     margin-top: 43px;
     margin-bottom: 43px;
-    margin-left: 13px;
+    margin-left: auto;
   }
 
   .u-section-9 .u-container-layout-1 {
@@ -502,7 +510,7 @@
     margin-left: initial;
   }
 }.u-section-11 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/negroni.jpg");
 }
 
 .u-section-11 .u-sheet-1 {
@@ -558,7 +566,7 @@
     min-height: 100px;
     margin-top: 43px;
     margin-bottom: 43px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-11 .u-container-layout-1 {
@@ -661,7 +669,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-13 .u-container-layout-1 {
@@ -707,7 +715,7 @@
     margin-left: initial;
   }
 }.u-section-15 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/rossi.jpg");
 }
 
 .u-section-15 .u-sheet-1 {
@@ -755,6 +763,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-15 {
+    background-position: 50% 13.31%;
+  }
+
   .u-section-15 .u-sheet-1 {
     min-height: 186px;
   }
@@ -764,7 +776,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-15 .u-container-layout-1 {
@@ -810,7 +822,7 @@
     margin-left: initial;
   }
 }.u-section-17 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/trentodoc.jpg");
 }
 
 .u-section-17 .u-sheet-1 {
@@ -858,6 +870,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-17 {
+    background-position: 50% 26.59%;
+  }
+
   .u-section-17 .u-sheet-1 {
     min-height: 186px;
   }
@@ -867,7 +883,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-17 .u-container-layout-1 {
@@ -913,7 +929,7 @@
     margin-left: initial;
   }
 }.u-section-19 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-19 .u-sheet-1 {
@@ -970,7 +986,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-19 .u-container-layout-1 {
@@ -1016,7 +1032,7 @@
     margin-left: initial;
   }
 }.u-section-21 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-21 .u-sheet-1 {
@@ -1073,7 +1089,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-21 .u-container-layout-1 {
@@ -1119,7 +1135,7 @@
     margin-left: initial;
   }
 }.u-section-23 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-23 .u-sheet-1 {
@@ -1168,7 +1184,7 @@
 
 @media (max-width: 575px) {
   .u-section-23 .u-sheet-1 {
-    min-height: 186px;
+    min-height: 210px;
   }
 
   .u-section-23 .u-group-1 {
@@ -1176,7 +1192,7 @@
     min-height: 130px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-23 .u-container-layout-1 {
@@ -1222,7 +1238,7 @@
     margin-left: initial;
   }
 }.u-section-25 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-25 .u-sheet-1 {
@@ -1279,7 +1295,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-25 .u-container-layout-1 {
@@ -1325,7 +1341,7 @@
     margin-left: initial;
   }
 }.u-section-27 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-27 .u-sheet-1 {
@@ -1382,7 +1398,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-27 .u-container-layout-1 {
@@ -1428,7 +1444,7 @@
     margin-left: initial;
   }
 }.u-section-29 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-29 .u-sheet-1 {
@@ -1485,7 +1501,7 @@
     min-height: 155px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-29 .u-container-layout-1 {
@@ -1531,7 +1547,7 @@
     margin-left: initial;
   }
 }.u-section-31 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-31 .u-sheet-1 {
@@ -1588,7 +1604,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-31 .u-container-layout-1 {
@@ -1634,7 +1650,7 @@
     margin-left: initial;
   }
 }.u-section-33 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-33 .u-sheet-1 {
@@ -1683,7 +1699,7 @@
 
 @media (max-width: 575px) {
   .u-section-33 .u-sheet-1 {
-    min-height: 186px;
+    min-height: 210px;
   }
 
   .u-section-33 .u-group-1 {
@@ -1691,7 +1707,7 @@
     min-height: 130px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-33 .u-container-layout-1 {
@@ -1737,7 +1753,7 @@
     margin-left: initial;
   }
 }.u-section-35 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
 }
 
 .u-section-35 .u-sheet-1 {
@@ -1794,7 +1810,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-35 .u-container-layout-1 {
@@ -1840,7 +1856,7 @@
     margin-left: initial;
   }
 }.u-section-37 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/insalatamelespeck.jpg");
 }
 
 .u-section-37 .u-sheet-1 {
@@ -1897,7 +1913,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-37 .u-container-layout-1 {
@@ -1943,7 +1959,7 @@
     margin-left: initial;
   }
 }.u-section-39 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/stuzzichini.jpg");
 }
 
 .u-section-39 .u-sheet-1 {
@@ -2000,7 +2016,7 @@
     min-height: 106px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-39 .u-container-layout-1 {
@@ -2046,7 +2062,7 @@
     margin-left: initial;
   }
 }.u-section-41 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/patateewurstel.jpg");
 }
 
 .u-section-41 .u-sheet-1 {
@@ -2095,15 +2111,15 @@
 
 @media (max-width: 575px) {
   .u-section-41 .u-sheet-1 {
-    min-height: 186px;
+    min-height: 210px;
   }
 
   .u-section-41 .u-group-1 {
     width: 279px;
-    min-height: 106px;
+    min-height: 130px;
     margin-top: 40px;
     margin-bottom: 40px;
-    margin-left: 12px;
+    margin-left: auto;
   }
 
   .u-section-41 .u-container-layout-1 {

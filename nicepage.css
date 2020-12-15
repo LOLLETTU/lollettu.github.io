@@ -31740,7 +31740,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-menu-1 {
     margin-top: -85px;
-    margin-right: -10px;
     margin-bottom: 18px;
   }
 
@@ -31785,7 +31784,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-text-1 {
     margin-left: 0;
     margin-right: 0;
-    width: auto;
+    width: 340px;
   }
 }
 
