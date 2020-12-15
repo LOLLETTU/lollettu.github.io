@@ -31724,12 +31724,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 110px;
+    min-height: 108px;
   }
 
   .u-header .u-image-1 {
-    margin-top: -1px;
+    margin-top: 8px;
     margin-left: 43px;
+    width: auto;
   }
 
   .u-header .u-logo-image-1 {
@@ -31740,7 +31741,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-menu-1 {
     margin-top: -82px;
     margin-right: -24px;
-    margin-bottom: 29px;
+    margin-bottom: 18px;
   }
 
   .u-header .u-text-1 {
