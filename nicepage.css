@@ -4765,7 +4765,6 @@ a {
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
   background-color: transparent;
   color: inherit;
-  text-align: inherit;
   height: auto;
 }
 .u-form-horizontal label,
@@ -5479,6 +5478,9 @@ a {
   font-size: 1rem;
   height: auto !important;
 }
+.u-form-group {
+  text-align: start;
+}
 .u-btn-submit {
   display: inline-block;
 }
@@ -5504,7 +5506,7 @@ a {
     margin: -0.5rem !important;
   }
   .u-form-horizontal .u-form-group {
-    margin: 0.5rem !important;
+    border: 0.5rem solid transparent !important;
   }
   .u-form-horizontal label {
     display: none;
@@ -17909,10 +17911,8 @@ a.pswp__share--download:hover {
   justify-content: space-between;
 }
 .u-cart-blocks-container {
-  display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 1fr 1fr;
-      grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   grid-gap: 30px;
   position: relative;
 }
@@ -31687,7 +31687,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-text-1 {
   font-size: 3rem;
-  margin: -60px 202px 24px auto;
+  margin: -60px 202px 24px 281px;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
@@ -31704,6 +31704,7 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-1 {
     margin-top: -60px;
     margin-right: 167px;
+    margin-left: 181px;
   }
 }
 @media (max-width: 991px) {
@@ -31724,6 +31725,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-right: 128px;
+    margin-left: 63px;
   }
 }
 @media (max-width: 767px) {
@@ -31743,6 +31745,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-right: 96px;
+    margin-left: 0;
   }
 }
 @media (max-width: 575px) {
